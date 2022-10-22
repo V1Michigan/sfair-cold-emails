@@ -1,4 +1,5 @@
 import smtplib, ssl
+from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import pandas as pd
@@ -38,6 +39,9 @@ def send_email(email_from, password, from_name, subject, content, email_to):
     email_message['Subject'] = subject
 
     email_message.attach(MIMEText(content, "html"))
+    pdf = MIMEApplication(open('assets/prospectus.pdf', 'rb').read())
+    pdf.add_header('Content-Disposition', 'attachment', filename='V1 Startup Fair Prospectus.pdf')
+    email_message.attach(pdf)
     email_string = email_message.as_string()
 
     context = ssl.create_default_context()
