@@ -50,5 +50,7 @@ def send_email(email_from, password, from_name, subject, content, email_to):
         server.sendmail(email_from, email_to, email_string)
 
 if __name__ == '__main__':
+    confirm = input('Are you sure you want to send emails? (y/n)\t')
+    if confirm != 'y': exit()
     subject, content = format_email(FULL_NAME, "Mage", "Tommy")
     send_email(EMAIL, PASSWORD, FULL_NAME, subject, content, "shrey150@yahoo.com")
