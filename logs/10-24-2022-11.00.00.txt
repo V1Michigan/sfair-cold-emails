@@ -1,0 +1,194 @@
+Are you sure you want to send emails? (y/n)     y
+Clearbit ['Tiffany'] ['tiffany@clearbit.com']
+
+Away ['Karissa'] ['karissa@awaytravel.com']
+
+dv01 ['Leo'] ['leo@dv01.co']
+
+Socotra ['Tonya'] ['tonya.wessman@socotra.com']
+
+Simple Habit ['Kim'] ['kim@simplehabit.com']
+
+Density ['Morgan'] ['morgan.murphy@density.io']
+
+Replicant ['Margaret'] ['margaret@replicant.ai']
+
+Canary Technologies ['Erika', 'Dmytro'] ['esalazar@canarytechnologies.com', 'dslipukha@canarytechnologies.com']
+
+Panorays ['Gil', 'Demi'] ['gil@panorays.com', 'Demi@panorays.com']
+
+Cover ['Cliff', 'Ben'] ['cliff@cover.com', 'ben@cover.com']
+
+ChargeAfter ['Amy', 'Meidad'] ['amy.levy@chargeafter.com', 'meidad.sharon@chargeafter.com']
+
+Ex.co ['Natali', 'Rich', 'Tom'] ['natali@ex.co', 'rich@ex.co', 'tom@ex.co']
+
+StreetLight Data ['Sal', 'NULL'] ['sal.akhter@streetlightdata.com', 'partners@streetlightdata.com']
+
+Terminal ['Dylan', 'NULL'] ['dylan@terminal.io', 'pr@terminal.io']
+
+Skupos ['Jake', 'NULL'] ['jake@skupos.com', 'press@skupos.com']
+
+Oqton ['Mark', 'NULL'] ['mark.gadsden@oqton.com', 'info@oqton.com']
+
+Xealth ['Aaron'] ['aaron.sheedy@xealth.io']
+
+Alkymi ['Adam', 'NULL'] ['adam@alkymi.io', 'partners@alkymi.io']
+
+Seasoned.co ['Anders', 'NULL'] ['anders.pers@seasoned.co', 'interested@seasoned.co']
+
+RubiconMD ['Carlos', 'NULL'] ['carlos@rubiconmd.com', 'hello@rubiconmd.com']
+
+August Home ['Shannon', 'NULL'] ['shannon@august.com', 'pro@august.com']
+
+LetsGetChecked ['Ronan', 'Mike'] ['ronan@letsgetchecked.com', 'mike@letsgetchecked.com']
+
+Aalto ['Chelsea', 'NULL'] ['chelsea@aalto.com', 'contact@aalto.com']
+
+ROAM ['Nikhil', 'NULL'] ['nikhil@roamrobotics.com', 'cs@roamrobotics.com']
+
+Darkstore ['Troy', 'Lee'] ['troy.gary@darkstore.com', 'lee@darkstore.com']
+
+Hyro ['Michael', 'NULL'] ['michael@hyro.ai', 'contact@hyro.ai']
+
+Omnidian ['Doug', 'NULL'] ['drobertson@omnidian.com', 'mediarelations@omnidian.com']
+
+Scienaptic ['Pankaj', 'NULL'] ['pankaj.jain@scienaptic.com', 'contactus@scienaptic.com']
+
+Kinsa ['Justin', 'Jane'] ['justin.greenberg@kinsahealth.com', 'jane.putnam@kinsahealth.com']
+
+Anyscale ['Philipp', 'NULL'] ['pmoritz@anyscale.com', 'contact@anyscale.com']
+
+Chef Robotics ['NULL', 'NULL'] ['sales@chefrobotics.ai', 'support@chefrobotics.ai']
+
+Turing Labs ['Chris', 'NULL'] ['chris@turingsaas.com', 'hiring@turingsaas.com']
+
+Dapi ['NULL', 'NULL'] ['hello@dapi.co', 'press@dapi.co']
+
+ReviewTrackers ['Chris', 'Mandy', 'NULL'] ['chris@reviewtrackers.com', 'mandy@reviewtrackers.com', 'info@reviewtrackers.com']
+
+Verikai ['Alyssa', 'Ellie', 'NULL'] ['alyssa.shane@verikai.com', 'ellie.newby@verikai.com', 'marketing@verikai.com']
+
+Candu ['Jonathan', 'Michele'] ['jonathan@candu.ai', 'michele@candu.ai']
+
+CoinList ['Paul', 'Graham', 'Brian'] ['paul@coinlist.co', 'graham@coinlist.co', 'brian@coinlist.co']
+
+vidIQ ['Rob', 'Graham', 'Mike'] ['rob@vidiq.com', 'graham@vidiq.com', 'mike@vidiq.com']
+
+Chronus Health ['Aparikh', 'NULL'] ['aparikh@chronushealth.com', 'ajagtiani@chronushealth.com']
+
+Kevala ['Patrick', 'Bryan'] ['patrick@kevala.care', 'bryan@kevala.care']
+
+Error: names/emails for Aclaimant badly formatted, skipping
+Honeycomb ['Christine', 'NULL'] ['christine@honeycomb.io', 'charity@honeycomb.io']
+
+Cover Genius ['Chris', 'Peter'] ['chris@covergenius.com', 'peter@covergenius.com']
+
+Amitree ['Jonathan', 'Marcus'] ['jonathan@amitree.com', 'marcus@amitree.com']
+
+Flieber ['NULL', 'NULL'] ['fm@flieber.com', 'guilherme@flieber.com']
+
+Webflow ['Lauren', 'NULL'] ['lauren.yee@webflow.com', 'roope@webflow.com']
+
+Fluz ['Maurice'] ['maurice@fluz.app']
+
+Dispense ['Tim', 'Kyla'] ['tim@dispenseapp.com', 'kyla@dispenseapp.com']
+
+Medsien ['Hamed', 'Sina'] ['hamed@medsien.com', 'sina@medsien.com']
+
+Avochato ['Alex', 'Christopher'] ['alex@avochato.com', 'christopher@avochato.com']
+
+Abacus Labs ['Josh'] ['josh@abacus.com']
+
+StormSensor ['Erin'] ['erin@stormsensor.io']
+
+Thirty Madison ['Steve', 'NULL'] ['steven@thirtymadison.com', 'demetri@thirtymadison.com']
+
+OOVA ['Amy'] ['amy@oova.life']
+
+MakeSchool ['Dan'] ['dan@makeschool.com']
+
+Ware ['Ian', 'Joe'] ['ian@getware.com', 'joe@getware.com']
+
+Andium ['Jory'] ['jory@andium.com']
+
+Pachama ['Tomas', 'Emma'] ['tomas@pachama.com', 'emma@pachama.com']
+
+TrueFacet ['Raj'] ['raj@truefacet.com']
+
+Modern Health ['Sonya'] ['sonya@joinmodernhealth.com']
+
+AdStage ['Sahil', 'Jason'] ['sahil@adstage.io', 'jason@adstage.io']
+
+Postscript ['Amanda', 'Justin'] ['amanda@postscript.io', 'justin@postscript.io']
+
+Bodhala ['Raj', 'Brad'] ['raj@bodhala.com', 'brad@bodhala.com']
+
+2ndKitchen ['Nick'] ['nick@2ndkitchen.com']
+
+Quilt Data ['Aneesh'] ['aneesh@quiltdata.io']
+
+Astranis ['Tony', 'Aisha'] ['tony@astranis.com', 'aisha@astranis.com']
+
+Secureframe ['Shrav', 'Reema', 'Brooke'] ['shrav@secureframe.com', 'reema@secureframe.com', 'brooke@secureframe.com']
+
+Blutag ['NULL', 'NULL', 'Rahul', 'Lawrece', 'NULL'] ['info@blu.ai', 'jobs@blu.ai', 'rahul@blu.ai', 'lawrence@blu.ai', 'shilp@blu.ai']
+
+Loadsmart ['Justin', 'NULL', 'Kameron'] ['justin@loadsmart.com', 'gita.selli@loadsmart.com', 'kameron.norton@loadsmart.com']
+
+Unite Us ['Jessica', 'Mark'] ['jessica.paddock@uniteus.com', 'mark.white@uniteus.com']
+
+Error: names/emails for Gradient.io badly formatted, skipping
+SentiLink ['Patrick', 'Naftali', 'Vivek'] ['patrick@sentilink.com', 'naftali@sentilink.com', 'vivek@sentilink.com']
+
+Error: names/emails for TheTake badly formatted, skipping
+SplashLearn ['Arpit', 'Joy', 'Mayank'] ['careers@thetake.com', 'ken@thetake.com', 'tyler@thetake.ai']
+
+Error: names/emails for Axoni badly formatted, skipping
+Error: names/emails for MeetElise badly formatted, skipping
+Error: names/emails for Tetrate badly formatted, skipping
+Freeosk Inc ['Pam', 'Megan'] ['pam.weaver@thefreeosk.com', 'megan.voss@thefreeosk.com']
+
+Arkadium ['Jessica', 'Zuger', 'Rob'] ['jessica@arkadium.com', 'zuger@arkadium.com', 'rob.caliolo@arkadium.com']
+
+Error: names/emails for MortgageHippo badly formatted, skipping
+PlushCare ['Ryan', 'James', 'Falko', 'Sebatstian'] ['ryan@plushcare.com', 'james@plushcare.com', 'falko@plushcare.com', 'sebastian@plushcare.com']
+
+Pendulum Therapeutics ['Colleen', 'John', 'Andrew'] ['colleen.cutcliffe@wholebiome.com', 'john.eid@wholebiome.com', 'andrew.cheng@wholebiome.com']
+
+Kindred AI ['Jim', 'Lavi', 'Jordan'] ['jim@kindred.ai', 'lavi.shpigelman@kindred.ai', 'jordan.bangia@kindred.ai']
+
+Error: names/emails for Section4 badly formatted, skipping
+Dwell ['Jim', 'Lara'] ['jim@dwell.com', 'lara@dwellmag.com']
+
+Notabene ['Pelle', 'Andres'] ['pelle@notabene.id', 'andres@notabene.id']
+
+The Block ['Joel'] ['joel@theblockcrypto.com']
+
+Crux Systems ['Eric'] ['eric.klein@cruxsystems.com']
+
+Known ['Erin'] ['erin@withknown.com']
+
+Anduin ['Richard', 'Alin'] ['richardkil@anduintransact.com', 'alinbui@anduintransact.com']
+
+Prelay ['Gabriella', 'Justin'] ['gabriella@prelay.com', 'justin@prelay.com']
+
+Parse.ly ['Sachin', 'Aimee'] ['sachin@parsely.com', 'Aimee@parsely.com']
+
+Uncountable ['Jason', 'Noel'] ['jason@uncountable.com', 'noel@uncountable.com']
+
+DeepAI ['Kevin', 'Peter'] ['Kevin@deepai.org', 'Peter@deepai.org']
+
+PCH International ['Christie'] ['christie.ma@pchintl.com']
+
+CK12  ['Ashwin'] ['ashwin@ck12.org']
+
+Atidiv ['Ram'] ['ram.yadav@atidiv.com']
+
+Potion ['Yahya', 'Alex'] ['yahya@potion.ai', 'Alex@potion.ai']
+
+TrueChoice Solutions ['Andrew'] ['awint@truechoice.io']
+
+Ziggle Tech, Inc. ['Rocky'] ['rp@ziggletech.com']
+
+Fundology ['Marsha'] ['marsha@dealroom.net']

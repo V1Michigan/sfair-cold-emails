@@ -88,6 +88,7 @@ if __name__ == '__main__':
         for name, email in persons:
             if email in emails_sent:
                 print(f'Warning: email already sent to {name} <{email}>, skipping')
+                
             subject, content = format_email(FULL_NAME, company, name)
             send_email(EMAIL, PASSWORD, FULL_NAME, subject, content, [email], ["v1startupfair@umich.edu"])
             emails_sent.append(email)
