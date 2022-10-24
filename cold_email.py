@@ -20,7 +20,7 @@ def format_email(name, company, recruiter_name, email_type="personal"):
         return (
             PERSONAL_SUBJECT,
             PERSONAL_TEMPLATE.format(
-                'Hello' if recruiter_name else f'Hello {recruiter_name}',
+                'Hello' if recruiter_name == 'NULL' else f'Hello {recruiter_name}',
                 name,
                 company,
                 company,
