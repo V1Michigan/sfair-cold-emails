@@ -5,12 +5,18 @@ from email.mime.text import MIMEText
 import pandas as pd
 from dotenv import load_dotenv
 import os
+import pickle
 
 load_dotenv()
 
 FULL_NAME = os.getenv('FULL_NAME')
 EMAIL = os.getenv('EMAIL')
 PASSWORD = os.getenv('PASSWORD')
+
+try:
+    emails_sent = pickle.load(open('emails_sent.pickle', 'rb'))
+except:
+    emails_sent = []
 
 if FULL_NAME is None or EMAIL is None or PASSWORD is None:
     raise Exception('Environment variables not set')
@@ -73,8 +79,19 @@ if __name__ == '__main__':
         emails = sanitize_split(row["Email"])
         persons = zip(names, emails)
 
+        if len(names) != len(emails):
+            print(f'Error: names/emails for {company} badly formatted, skipping')
+            continue
+
         print(company, names, emails)
 
         for name, email in persons:
+            if email in emails_sent:
+                print(f'Warning: email already sent to {name} <{email}>, skipping')
             subject, content = format_email(FULL_NAME, company, name)
-            send_email(EMAIL, PASSWORD, FULL_NAME, '[DRY RUN]' + subject, content, [email], ["v1startupfair@umich.edu"])
+            send_email(EMAIL, PASSWORD, FULL_NAME, subject, content, [email], ["v1startupfair@umich.edu"])
+            emails_sent.append(email)
+
+        print()
+
+    pickle.dump(emails_sent, open('emails_sent.pickle', 'wb'))
