@@ -65,7 +65,7 @@ def send_email(email_from, password, from_name, subject, content, email_to, cc):
 def sanitize_split(field):
     return ''.join(field.split()).split(',')
 
-if __name__ == '__main__':
+def main():
     confirm = input('Are you sure you want to send emails? (y/n)\t')
     if confirm != 'y': exit()
 
@@ -88,7 +88,8 @@ if __name__ == '__main__':
         for name, email in persons:
             if email in emails_sent:
                 print(f'Warning: email already sent to {name} <{email}>, skipping')
-                
+                continue
+
             subject, content = format_email(FULL_NAME, company, name)
             send_email(EMAIL, PASSWORD, FULL_NAME, subject, content, [email], ["v1startupfair@umich.edu"])
             emails_sent.append(email)
@@ -96,3 +97,10 @@ if __name__ == '__main__':
         print()
 
     pickle.dump(emails_sent, open('emails_sent.pickle', 'wb'))
+
+if __name__ == '__main__':
+    try:
+        main()
+    except KeyboardInterrupt:
+        # if script is aborted, save emails that have been sent
+        pickle.dump(emails_sent, open('emails_sent.pickle', 'wb'))
