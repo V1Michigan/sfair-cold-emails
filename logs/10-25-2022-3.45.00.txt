@@ -1,0 +1,64 @@
+Are you sure you want to send emails? (y/n)     y
+Golden ['Jude', 'Emory'] ['jude@golden.com', 'emory@golden.com']
+
+Sense ['Anil', 'Ram'] ['anil@sensehq.com', 'ram@sensehq.com']
+
+Unqork ['Gary', 'Bassam'] ['gary.hoberman@unqork.com', 'bassam.chaptini@unqork.com']
+
+PagerDuty ['Jennifer', 'Howard'] ['jennifer@pagerduty.com', 'howard@pagerduty.com']
+
+Joonko ["Pe'era"] ['peera@joonko.co']
+
+Alchemy ['Nikhil'] ['nikhil@alchemy.com']
+
+Fountain ['April', 'Ryan'] ['april@fountain.com', 'ryan@fountain.com']
+
+Repl.it ['Amjad'] ['amjad@repl.it']
+
+Mammoth Biosciences ['Vikram'] ['vikramj@mammothbiosci.com']
+
+Netlify ['Matt', 'Chelsey'] ['matt@netlify.com', 'chelsey@netlify.com']
+
+Clearbit ['Tiffany'] ['tiffany@clearbit.com']
+Warning: email already sent to Tiffany <tiffany@clearbit.com>, skipping
+
+Away ['Karissa'] ['karissa@awaytravel.com']
+Warning: email already sent to Karissa <karissa@awaytravel.com>, skipping
+
+dv01 ['Leo'] ['leo@dv01.co']
+Warning: email already sent to Leo <leo@dv01.co>, skipping
+^C^CTraceback (most recent call last):
+  File "/Users/shrey/Documents/Developer/startup-fair-cold-emails/cold_email.py", line 62, in send_email
+    server.sendmail(email_from, (email_to + cc), email_string)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 902, in sendmail
+    (code, resp) = self.data(msg)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 579, in data
+    self.send(q)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 360, in send
+    self.sock.sendall(s)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/ssl.py", line 1205, in sendall
+    v = self.send(byte_view[count:])
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/ssl.py", line 1174, in send
+    return self._sslobj.write(data)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/shrey/Documents/Developer/startup-fair-cold-emails/cold_email.py", line 93, in <module>
+    send_email(EMAIL, PASSWORD, FULL_NAME, subject, content, [email], ["v1startupfair@umich.edu"])
+  File "/Users/shrey/Documents/Developer/startup-fair-cold-emails/cold_email.py", line 62, in send_email
+    server.sendmail(email_from, (email_to + cc), email_string)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 282, in __exit__
+    code, message = self.docmd("QUIT")
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 432, in docmd
+    return self.getreply()
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 398, in getreply
+    line = self.file.readline(_MAXLINE + 1)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/ssl.py", line 1242, in recv_into
+    return self.read(nbytes, buffer)
+  File "/opt/homebrew/Cellar/python@3.9/3.9.13_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/ssl.py", line 1100, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
