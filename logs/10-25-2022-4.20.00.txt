@@ -1,0 +1,454 @@
+Are you sure you want to send emails? (y/n)     y
+Golden ['Jude', 'Emory'] ['jude@golden.com', 'emory@golden.com']
+Warning: email already sent to Jude <jude@golden.com>, skipping
+Warning: email already sent to Emory <emory@golden.com>, skipping
+
+Sense ['Anil', 'Ram'] ['anil@sensehq.com', 'ram@sensehq.com']
+Warning: email already sent to Anil <anil@sensehq.com>, skipping
+Warning: email already sent to Ram <ram@sensehq.com>, skipping
+
+Unqork ['Gary', 'Bassam'] ['gary.hoberman@unqork.com', 'bassam.chaptini@unqork.com']
+Warning: email already sent to Gary <gary.hoberman@unqork.com>, skipping
+Warning: email already sent to Bassam <bassam.chaptini@unqork.com>, skipping
+
+PagerDuty ['Jennifer', 'Howard'] ['jennifer@pagerduty.com', 'howard@pagerduty.com']
+Warning: email already sent to Jennifer <jennifer@pagerduty.com>, skipping
+Warning: email already sent to Howard <howard@pagerduty.com>, skipping
+
+Joonko ["Pe'era"] ['peera@joonko.co']
+Warning: email already sent to Pe'era <peera@joonko.co>, skipping
+
+Alchemy ['Nikhil'] ['nikhil@alchemy.com']
+Warning: email already sent to Nikhil <nikhil@alchemy.com>, skipping
+
+Fountain ['April', 'Ryan'] ['april@fountain.com', 'ryan@fountain.com']
+Warning: email already sent to April <april@fountain.com>, skipping
+Warning: email already sent to Ryan <ryan@fountain.com>, skipping
+
+Repl.it ['Amjad'] ['amjad@repl.it']
+Warning: email already sent to Amjad <amjad@repl.it>, skipping
+
+Mammoth Biosciences ['Vikram'] ['vikramj@mammothbiosci.com']
+Warning: email already sent to Vikram <vikramj@mammothbiosci.com>, skipping
+
+Netlify ['Matt', 'Chelsey'] ['matt@netlify.com', 'chelsey@netlify.com']
+Warning: email already sent to Matt <matt@netlify.com>, skipping
+Warning: email already sent to Chelsey <chelsey@netlify.com>, skipping
+
+Clearbit ['Tiffany'] ['tiffany@clearbit.com']
+Warning: email already sent to Tiffany <tiffany@clearbit.com>, skipping
+
+Away ['Karissa'] ['karissa@awaytravel.com']
+Warning: email already sent to Karissa <karissa@awaytravel.com>, skipping
+
+dv01 ['Leo'] ['leo@dv01.co']
+Warning: email already sent to Leo <leo@dv01.co>, skipping
+
+Socotra ['Tonya'] ['tonya.wessman@socotra.com']
+Warning: email already sent to Tonya <tonya.wessman@socotra.com>, skipping
+
+Simple Habit ['Kim'] ['kim@simplehabit.com']
+Warning: email already sent to Kim <kim@simplehabit.com>, skipping
+
+Density ['Morgan'] ['morgan.murphy@density.io']
+Warning: email already sent to Morgan <morgan.murphy@density.io>, skipping
+
+Replicant ['Margaret'] ['margaret@replicant.ai']
+Warning: email already sent to Margaret <margaret@replicant.ai>, skipping
+
+4Degrees ['Sarika', 'NULL'] ['Sarika@4degrees.ai', 'talent@4degrees.ai']
+
+Stackline ['Yazan'] ['ybilleh@stackline.com']
+
+Sight Machine ['Kurt'] ['kdemaagd@sightmachine.com']
+
+Cambly ['Neil', 'Sameer'] ['Neil@cambly.com', 'Sameer@cambly.com']
+
+Clarify Health Solutions ['Paul'] ['paul@clarify.io']
+
+Stellar Health ['Octavian'] ['octavian@stellar.health']
+
+Zendrive ['Chloe', 'Julia'] ['chloe@zendrive.com', 'julia@zendrive.com']
+
+Convex ['Ronak'] ['ronak@convexlabs.io']
+
+Sesame ['Liz'] ['liz.murphy@sesamecare.com']
+
+Hiya ['Jay'] ['jbarker@hiya.com']
+
+Simplebet, Inc. ['Rikki'] ['rikkia@simplebet.io']
+
+nTopology ['Linda', 'Julia'] ['linda@ntopology.com', 'juliamattox@ntopology.com']
+
+Triplebyte ['Ellis'] ['ellis@triplebyte.com']
+
+Loft Orbital ['Julie'] ['julie@loftorbital.com']
+
+Osaro ['Tracy'] ['tracy@osaro.com']
+
+Oshi Health ['Dwight'] ['dwight@oshihealth.com']
+
+Okera ['Desiree'] ['dtherianos@okera.com']
+
+Abl Schools ['Jasmin'] ['jancheta@ablschools.com']
+
+Dandelion Energy ['Hagit'] ['hagit@dandelionenergy.com']
+
+Dolls Kill ['Karina'] ['karina.ponce@dollskill.com']
+
+NewtonX ['Jeremy'] ['jeremy.wee@newtonx.com']
+
+Aquabyte ['Bryton'] ['bryton@aquabyte.ai']
+
+Fuzzy ['Helen'] ['helen@yourfuzzy.com']
+
+Vic.ai ['Kristen'] ['kristen.gilmartin@vic.ai']
+
+Okcoin ['Angel'] ['az@okcoin.com']
+
+Siemplify ['Garry'] ['garry@siemplify.co']
+
+Chronicled ['Cecily'] ['cecily@chronicled.com']
+
+StreamNative ['James'] ['james@streamnative.io']
+
+Canary Technologies ['Erika', 'Dmytro'] ['esalazar@canarytechnologies.com', 'dslipukha@canarytechnologies.com']
+Warning: email already sent to Erika <esalazar@canarytechnologies.com>, skipping
+Warning: email already sent to Dmytro <dslipukha@canarytechnologies.com>, skipping
+
+Panorays ['Gil', 'Demi'] ['gil@panorays.com', 'Demi@panorays.com']
+Warning: email already sent to Gil <gil@panorays.com>, skipping
+Warning: email already sent to Demi <Demi@panorays.com>, skipping
+
+Cover ['Cliff', 'Ben'] ['cliff@cover.com', 'ben@cover.com']
+Warning: email already sent to Cliff <cliff@cover.com>, skipping
+Warning: email already sent to Ben <ben@cover.com>, skipping
+
+ChargeAfter ['Amy', 'Meidad'] ['amy.levy@chargeafter.com', 'meidad.sharon@chargeafter.com']
+Warning: email already sent to Amy <amy.levy@chargeafter.com>, skipping
+Warning: email already sent to Meidad <meidad.sharon@chargeafter.com>, skipping
+
+Ex.co ['Natali', 'Rich', 'Tom'] ['natali@ex.co', 'rich@ex.co', 'tom@ex.co']
+Warning: email already sent to Natali <natali@ex.co>, skipping
+Warning: email already sent to Rich <rich@ex.co>, skipping
+Warning: email already sent to Tom <tom@ex.co>, skipping
+
+StreetLight Data ['Sal', 'NULL'] ['sal.akhter@streetlightdata.com', 'partners@streetlightdata.com']
+Warning: email already sent to Sal <sal.akhter@streetlightdata.com>, skipping
+Warning: email already sent to NULL <partners@streetlightdata.com>, skipping
+
+Terminal ['Dylan', 'NULL'] ['dylan@terminal.io', 'pr@terminal.io']
+Warning: email already sent to Dylan <dylan@terminal.io>, skipping
+Warning: email already sent to NULL <pr@terminal.io>, skipping
+
+Skupos ['Jake', 'NULL'] ['jake@skupos.com', 'press@skupos.com']
+Warning: email already sent to Jake <jake@skupos.com>, skipping
+Warning: email already sent to NULL <press@skupos.com>, skipping
+
+Oqton ['Mark', 'NULL'] ['mark.gadsden@oqton.com', 'info@oqton.com']
+Warning: email already sent to Mark <mark.gadsden@oqton.com>, skipping
+Warning: email already sent to NULL <info@oqton.com>, skipping
+
+Xealth ['Aaron'] ['aaron.sheedy@xealth.io']
+Warning: email already sent to Aaron <aaron.sheedy@xealth.io>, skipping
+
+Alkymi ['Adam', 'NULL'] ['adam@alkymi.io', 'partners@alkymi.io']
+Warning: email already sent to Adam <adam@alkymi.io>, skipping
+Warning: email already sent to NULL <partners@alkymi.io>, skipping
+
+Error: names/emails for Seasoned.co badly formatted, skipping
+RubiconMD ['Carlos', 'NULL'] ['carlos@rubiconmd.com', 'hello@rubiconmd.com']
+Warning: email already sent to Carlos <carlos@rubiconmd.com>, skipping
+Warning: email already sent to NULL <hello@rubiconmd.com>, skipping
+
+August Home ['Shannon', 'NULL'] ['shannon@august.com', 'pro@august.com']
+Warning: email already sent to Shannon <shannon@august.com>, skipping
+Warning: email already sent to NULL <pro@august.com>, skipping
+
+LetsGetChecked ['Ronan', 'Mike'] ['ronan@letsgetchecked.com', 'mike@letsgetchecked.com']
+Warning: email already sent to Ronan <ronan@letsgetchecked.com>, skipping
+Warning: email already sent to Mike <mike@letsgetchecked.com>, skipping
+
+Aalto ['Chelsea', 'NULL'] ['chelsea@aalto.com', 'contact@aalto.com']
+Warning: email already sent to Chelsea <chelsea@aalto.com>, skipping
+Warning: email already sent to NULL <contact@aalto.com>, skipping
+
+ROAM ['Nikhil', 'NULL'] ['nikhil@roamrobotics.com', 'cs@roamrobotics.com']
+Warning: email already sent to Nikhil <nikhil@roamrobotics.com>, skipping
+Warning: email already sent to NULL <cs@roamrobotics.com>, skipping
+
+Darkstore ['Troy', 'Lee'] ['troy.gary@darkstore.com', 'lee@darkstore.com']
+Warning: email already sent to Troy <troy.gary@darkstore.com>, skipping
+Warning: email already sent to Lee <lee@darkstore.com>, skipping
+
+Hyro ['Michael', 'NULL'] ['michael@hyro.ai', 'contact@hyro.ai']
+Warning: email already sent to Michael <michael@hyro.ai>, skipping
+Warning: email already sent to NULL <contact@hyro.ai>, skipping
+
+Omnidian ['Doug', 'NULL'] ['drobertson@omnidian.com', 'mediarelations@omnidian.com']
+Warning: email already sent to Doug <drobertson@omnidian.com>, skipping
+Warning: email already sent to NULL <mediarelations@omnidian.com>, skipping
+
+Scienaptic ['Pankaj', 'NULL'] ['pankaj.jain@scienaptic.com', 'contactus@scienaptic.com']
+Warning: email already sent to Pankaj <pankaj.jain@scienaptic.com>, skipping
+Warning: email already sent to NULL <contactus@scienaptic.com>, skipping
+
+Kinsa ['Justin', 'Jane'] ['justin.greenberg@kinsahealth.com', 'jane.putnam@kinsahealth.com']
+Warning: email already sent to Justin <justin.greenberg@kinsahealth.com>, skipping
+Warning: email already sent to Jane <jane.putnam@kinsahealth.com>, skipping
+
+Anyscale ['Philipp', 'NULL'] ['pmoritz@anyscale.com', 'contact@anyscale.com']
+Warning: email already sent to Philipp <pmoritz@anyscale.com>, skipping
+Warning: email already sent to NULL <contact@anyscale.com>, skipping
+
+Chef Robotics ['NULL', 'NULL'] ['sales@chefrobotics.ai', 'support@chefrobotics.ai']
+Warning: email already sent to NULL <sales@chefrobotics.ai>, skipping
+Warning: email already sent to NULL <support@chefrobotics.ai>, skipping
+
+Turing Labs ['Chris', 'NULL'] ['chris@turingsaas.com', 'hiring@turingsaas.com']
+Warning: email already sent to Chris <chris@turingsaas.com>, skipping
+Warning: email already sent to NULL <hiring@turingsaas.com>, skipping
+
+Dapi ['NULL', 'NULL'] ['hello@dapi.co', 'press@dapi.co']
+Warning: email already sent to NULL <hello@dapi.co>, skipping
+Warning: email already sent to NULL <press@dapi.co>, skipping
+
+ReviewTrackers ['Chris', 'Mandy', 'NULL'] ['chris@reviewtrackers.com', 'mandy@reviewtrackers.com', 'info@reviewtrackers.com']
+Warning: email already sent to Chris <chris@reviewtrackers.com>, skipping
+Warning: email already sent to Mandy <mandy@reviewtrackers.com>, skipping
+Warning: email already sent to NULL <info@reviewtrackers.com>, skipping
+
+Verikai ['Alyssa', 'Ellie', 'NULL'] ['alyssa.shane@verikai.com', 'ellie.newby@verikai.com', 'marketing@verikai.com']
+Warning: email already sent to Alyssa <alyssa.shane@verikai.com>, skipping
+Warning: email already sent to Ellie <ellie.newby@verikai.com>, skipping
+Warning: email already sent to NULL <marketing@verikai.com>, skipping
+
+Candu ['Jonathan', 'Michele'] ['jonathan@candu.ai', 'michele@candu.ai']
+Warning: email already sent to Jonathan <jonathan@candu.ai>, skipping
+Warning: email already sent to Michele <michele@candu.ai>, skipping
+
+CoinList ['Paul', 'Graham', 'Brian'] ['paul@coinlist.co', 'graham@coinlist.co', 'brian@coinlist.co']
+Warning: email already sent to Paul <paul@coinlist.co>, skipping
+Warning: email already sent to Graham <graham@coinlist.co>, skipping
+Warning: email already sent to Brian <brian@coinlist.co>, skipping
+
+vidIQ ['Rob', 'Graham', 'Mike'] ['rob@vidiq.com', 'graham@vidiq.com', 'mike@vidiq.com']
+Warning: email already sent to Rob <rob@vidiq.com>, skipping
+Warning: email already sent to Graham <graham@vidiq.com>, skipping
+Warning: email already sent to Mike <mike@vidiq.com>, skipping
+
+Chronus Health ['Aparikh', 'NULL'] ['aparikh@chronushealth.com', 'ajagtiani@chronushealth.com']
+Warning: email already sent to Aparikh <aparikh@chronushealth.com>, skipping
+Warning: email already sent to NULL <ajagtiani@chronushealth.com>, skipping
+
+Kevala ['Patrick', 'Bryan'] ['patrick@kevala.care', 'bryan@kevala.care']
+Warning: email already sent to Patrick <patrick@kevala.care>, skipping
+Warning: email already sent to Bryan <bryan@kevala.care>, skipping
+
+Aclaimant ['David', 'Joel', 'Michael'] ['david@aclaimant.com', 'joel@aclaimant.com', 'michael@aclaimant.com']
+
+Honeycomb ['Christine', 'NULL'] ['christine@honeycomb.io', 'charity@honeycomb.io']
+Warning: email already sent to Christine <christine@honeycomb.io>, skipping
+Warning: email already sent to NULL <charity@honeycomb.io>, skipping
+
+Cover Genius ['Chris', 'Peter'] ['chris@covergenius.com', 'peter@covergenius.com']
+Warning: email already sent to Chris <chris@covergenius.com>, skipping
+Warning: email already sent to Peter <peter@covergenius.com>, skipping
+
+Amitree ['Jonathan', 'Marcus'] ['jonathan@amitree.com', 'marcus@amitree.com']
+Warning: email already sent to Jonathan <jonathan@amitree.com>, skipping
+Warning: email already sent to Marcus <marcus@amitree.com>, skipping
+
+Flieber ['NULL', 'NULL'] ['fm@flieber.com', 'guilherme@flieber.com']
+Warning: email already sent to NULL <fm@flieber.com>, skipping
+Warning: email already sent to NULL <guilherme@flieber.com>, skipping
+
+Webflow ['Lauren', 'NULL'] ['lauren.yee@webflow.com', 'roope@webflow.com']
+Warning: email already sent to Lauren <lauren.yee@webflow.com>, skipping
+Warning: email already sent to NULL <roope@webflow.com>, skipping
+
+Fluz ['Maurice'] ['maurice@fluz.app']
+Warning: email already sent to Maurice <maurice@fluz.app>, skipping
+
+Dispense ['Tim', 'Kyla'] ['tim@dispenseapp.com', 'kyla@dispenseapp.com']
+Warning: email already sent to Tim <tim@dispenseapp.com>, skipping
+Warning: email already sent to Kyla <kyla@dispenseapp.com>, skipping
+
+Medsien ['Hamed', 'Sina'] ['hamed@medsien.com', 'sina@medsien.com']
+Warning: email already sent to Hamed <hamed@medsien.com>, skipping
+Warning: email already sent to Sina <sina@medsien.com>, skipping
+
+Avochato ['Alex', 'Christopher'] ['alex@avochato.com', 'christopher@avochato.com']
+Warning: email already sent to Alex <alex@avochato.com>, skipping
+Warning: email already sent to Christopher <christopher@avochato.com>, skipping
+
+Abacus Labs ['Josh'] ['josh@abacus.com']
+Warning: email already sent to Josh <josh@abacus.com>, skipping
+
+StormSensor ['Erin'] ['erin@stormsensor.io']
+Warning: email already sent to Erin <erin@stormsensor.io>, skipping
+
+Thirty Madison ['Steve', 'NULL'] ['steven@thirtymadison.com', 'demetri@thirtymadison.com']
+Warning: email already sent to Steve <steven@thirtymadison.com>, skipping
+Warning: email already sent to NULL <demetri@thirtymadison.com>, skipping
+
+OOVA ['Amy'] ['amy@oova.life']
+Warning: email already sent to Amy <amy@oova.life>, skipping
+
+MakeSchool ['Dan'] ['dan@makeschool.com']
+Warning: email already sent to Dan <dan@makeschool.com>, skipping
+
+Ware ['Ian', 'Joe'] ['ian@getware.com', 'joe@getware.com']
+Warning: email already sent to Ian <ian@getware.com>, skipping
+Warning: email already sent to Joe <joe@getware.com>, skipping
+
+Andium ['Jory'] ['jory@andium.com']
+Warning: email already sent to Jory <jory@andium.com>, skipping
+
+Pachama ['Tomas', 'Emma'] ['tomas@pachama.com', 'emma@pachama.com']
+Warning: email already sent to Tomas <tomas@pachama.com>, skipping
+Warning: email already sent to Emma <emma@pachama.com>, skipping
+
+TrueFacet ['Raj'] ['raj@truefacet.com']
+Warning: email already sent to Raj <raj@truefacet.com>, skipping
+
+Modern Health ['Sonya'] ['sonya@joinmodernhealth.com']
+Warning: email already sent to Sonya <sonya@joinmodernhealth.com>, skipping
+
+AdStage ['Sahil', 'Jason'] ['sahil@adstage.io', 'jason@adstage.io']
+Warning: email already sent to Sahil <sahil@adstage.io>, skipping
+Warning: email already sent to Jason <jason@adstage.io>, skipping
+
+Postscript ['Amanda', 'Justin'] ['amanda@postscript.io', 'justin@postscript.io']
+Warning: email already sent to Amanda <amanda@postscript.io>, skipping
+Warning: email already sent to Justin <justin@postscript.io>, skipping
+
+Bodhala ['Raj', 'Brad'] ['raj@bodhala.com', 'brad@bodhala.com']
+Warning: email already sent to Raj <raj@bodhala.com>, skipping
+Warning: email already sent to Brad <brad@bodhala.com>, skipping
+
+2ndKitchen ['Nick'] ['nick@2ndkitchen.com']
+Warning: email already sent to Nick <nick@2ndkitchen.com>, skipping
+
+Quilt Data ['Aneesh'] ['aneesh@quiltdata.io']
+Warning: email already sent to Aneesh <aneesh@quiltdata.io>, skipping
+
+Astranis ['Tony', 'Aisha'] ['tony@astranis.com', 'aisha@astranis.com']
+Warning: email already sent to Tony <tony@astranis.com>, skipping
+Warning: email already sent to Aisha <aisha@astranis.com>, skipping
+
+Secureframe ['Shrav', 'Reema', 'Brooke'] ['shrav@secureframe.com', 'reema@secureframe.com', 'brooke@secureframe.com']
+Warning: email already sent to Shrav <shrav@secureframe.com>, skipping
+Warning: email already sent to Reema <reema@secureframe.com>, skipping
+Warning: email already sent to Brooke <brooke@secureframe.com>, skipping
+
+Blutag ['NULL', 'NULL', 'Rahul', 'Lawrece', 'NULL'] ['info@blu.ai', 'jobs@blu.ai', 'rahul@blu.ai', 'lawrence@blu.ai', 'shilp@blu.ai']
+Warning: email already sent to NULL <info@blu.ai>, skipping
+Warning: email already sent to NULL <jobs@blu.ai>, skipping
+Warning: email already sent to Rahul <rahul@blu.ai>, skipping
+Warning: email already sent to Lawrece <lawrence@blu.ai>, skipping
+Warning: email already sent to NULL <shilp@blu.ai>, skipping
+
+Loadsmart ['Justin', 'NULL', 'Kameron'] ['justin@loadsmart.com', 'gita.selli@loadsmart.com', 'kameron.norton@loadsmart.com']
+Warning: email already sent to Justin <justin@loadsmart.com>, skipping
+Warning: email already sent to NULL <gita.selli@loadsmart.com>, skipping
+Warning: email already sent to Kameron <kameron.norton@loadsmart.com>, skipping
+
+Unite Us ['Jessica', 'Mark'] ['jessica.paddock@uniteus.com', 'mark.white@uniteus.com']
+Warning: email already sent to Jessica <jessica.paddock@uniteus.com>, skipping
+Warning: email already sent to Mark <mark.white@uniteus.com>, skipping
+
+Gradient.io ['Geoff', 'Norman', 'Bobby', 'Sarah'] ['geoff@gradient.io', 'norman@gradient.io', 'bobby@gradient.io', 'sarah@gradient.io']
+
+SentiLink ['Patrick', 'Naftali', 'Vivek'] ['patrick@sentilink.com', 'naftali@sentilink.com', 'vivek@sentilink.com']
+Warning: email already sent to Patrick <patrick@sentilink.com>, skipping
+Warning: email already sent to Naftali <naftali@sentilink.com>, skipping
+Warning: email already sent to Vivek <vivek@sentilink.com>, skipping
+
+Error: names/emails for TheTake badly formatted, skipping
+Error: names/emails for Axoni badly formatted, skipping
+Error: names/emails for MeetElise badly formatted, skipping
+Tetrate ['Takeshi', 'Varun', 'Zack', 'Liza', 'Liam'] ['takeshi@tetrate.io', 'varun@tetrate.io', 'zack@tetrate.io', 'lizan@tetrate.io', 'liam@tetrate.io']
+
+Freeosk Inc ['Pam', 'Megan'] ['pam.weaver@thefreeosk.com', 'megan.voss@thefreeosk.com']
+Warning: email already sent to Pam <pam.weaver@thefreeosk.com>, skipping
+Warning: email already sent to Megan <megan.voss@thefreeosk.com>, skipping
+
+Arkadium ['Jessica', 'Zuger', 'Rob'] ['jessica@arkadium.com', 'zuger@arkadium.com', 'rob.caliolo@arkadium.com']
+Warning: email already sent to Jessica <jessica@arkadium.com>, skipping
+Warning: email already sent to Zuger <zuger@arkadium.com>, skipping
+Warning: email already sent to Rob <rob.caliolo@arkadium.com>, skipping
+
+MortgageHippo ['Valentin', 'Eric', 'George', 'Michael', 'Marvin'] ['valentin@mortgagehippo.com', 'eric@mortgagehippo.com', 'george@mortgagehippo.com', 'michael@mortgagehippo.com', 'marvin@mortgagehippo.com']
+
+Error: names/emails for PlushCare badly formatted, skipping
+Pendulum Therapeutics ['Colleen', 'John', 'Andrew'] ['colleen.cutcliffe@wholebiome.com', 'john.eid@wholebiome.com', 'andrew.cheng@wholebiome.com']
+Warning: email already sent to Colleen <colleen.cutcliffe@wholebiome.com>, skipping
+Warning: email already sent to John <john.eid@wholebiome.com>, skipping
+Warning: email already sent to Andrew <andrew.cheng@wholebiome.com>, skipping
+
+Kindred AI ['Jim', 'Lavi', 'Jordan'] ['jim@kindred.ai', 'lavi.shpigelman@kindred.ai', 'jordan.bangia@kindred.ai']
+Warning: email already sent to Jim <jim@kindred.ai>, skipping
+Warning: email already sent to Lavi <lavi.shpigelman@kindred.ai>, skipping
+Warning: email already sent to Jordan <jordan.bangia@kindred.ai>, skipping
+
+Section4 ['Kira', 'Suzanne', 'Briegan', 'Chris', 'Brian'] ['kira@section4.com', 'suzanne@section4.com', 'briegan@section4.com', 'chris@section4.com', 'brian@section4.com']
+
+Dwell ['Jim', 'Lara'] ['jim@dwell.com', 'lara@dwellmag.com']
+Warning: email already sent to Jim <jim@dwell.com>, skipping
+Warning: email already sent to Lara <lara@dwellmag.com>, skipping
+
+Notabene ['Pelle', 'Andres'] ['pelle@notabene.id', 'andres@notabene.id']
+Warning: email already sent to Pelle <pelle@notabene.id>, skipping
+Warning: email already sent to Andres <andres@notabene.id>, skipping
+
+The Block ['Joel'] ['joel@theblockcrypto.com']
+Warning: email already sent to Joel <joel@theblockcrypto.com>, skipping
+
+Crux Systems ['Eric'] ['eric.klein@cruxsystems.com']
+Warning: email already sent to Eric <eric.klein@cruxsystems.com>, skipping
+
+Known ['Erin'] ['erin@withknown.com']
+Warning: email already sent to Erin <erin@withknown.com>, skipping
+
+Anduin ['Richard', 'Alin'] ['richardkil@anduintransact.com', 'alinbui@anduintransact.com']
+Warning: email already sent to Richard <richardkil@anduintransact.com>, skipping
+Warning: email already sent to Alin <alinbui@anduintransact.com>, skipping
+
+Prelay ['Gabriella', 'Justin'] ['gabriella@prelay.com', 'justin@prelay.com']
+Warning: email already sent to Gabriella <gabriella@prelay.com>, skipping
+Warning: email already sent to Justin <justin@prelay.com>, skipping
+
+Parse.ly ['Sachin', 'Aimee'] ['sachin@parsely.com', 'Aimee@parsely.com']
+Warning: email already sent to Sachin <sachin@parsely.com>, skipping
+Warning: email already sent to Aimee <Aimee@parsely.com>, skipping
+
+Uncountable ['Jason', 'Noel'] ['jason@uncountable.com', 'noel@uncountable.com']
+Warning: email already sent to Jason <jason@uncountable.com>, skipping
+Warning: email already sent to Noel <noel@uncountable.com>, skipping
+
+DeepAI ['Kevin', 'Peter'] ['Kevin@deepai.org', 'Peter@deepai.org']
+Warning: email already sent to Kevin <Kevin@deepai.org>, skipping
+Warning: email already sent to Peter <Peter@deepai.org>, skipping
+
+PCH International ['Christie'] ['christie.ma@pchintl.com']
+Warning: email already sent to Christie <christie.ma@pchintl.com>, skipping
+
+CK12  ['Ashwin'] ['ashwin@ck12.org']
+Warning: email already sent to Ashwin <ashwin@ck12.org>, skipping
+
+Atidiv ['Ram'] ['ram.yadav@atidiv.com']
+Warning: email already sent to Ram <ram.yadav@atidiv.com>, skipping
+
+Potion ['Yahya', 'Alex'] ['yahya@potion.ai', 'Alex@potion.ai']
+Warning: email already sent to Yahya <yahya@potion.ai>, skipping
+Warning: email already sent to Alex <Alex@potion.ai>, skipping
+
+TrueChoice Solutions ['Andrew'] ['awint@truechoice.io']
+Warning: email already sent to Andrew <awint@truechoice.io>, skipping
+
+Ziggle Tech, Inc. ['Rocky'] ['rp@ziggletech.com']
+Warning: email already sent to Rocky <rp@ziggletech.com>, skipping
+
+Fundology ['Marsha'] ['marsha@dealroom.net']
+Warning: email already sent to Marsha <marsha@dealroom.net>, skipping
