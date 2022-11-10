@@ -10,6 +10,7 @@ import pickle
 load_dotenv()
 
 FULL_NAME = os.getenv('FULL_NAME')
+YEAR = os.getenv('YEAR')
 EMAIL = os.getenv('EMAIL')
 PASSWORD = os.getenv('PASSWORD')
 
@@ -18,17 +19,28 @@ try:
 except:
     emails_sent = []
 
-if FULL_NAME is None or EMAIL is None or PASSWORD is None:
+if FULL_NAME is None or EMAIL is None or PASSWORD is None or YEAR is None:
     raise Exception('Environment variables not set')
 
 def format_email(name, company, recruiter_name, email_type="personal"):
-    if email_type == "personal":
+    if email_type == "Regular" or email_type == "Small":
         return (
             PERSONAL_SUBJECT,
             PERSONAL_TEMPLATE.format(
-                'Hello' if recruiter_name == 'NULL' else f'Hello {recruiter_name}',
+                'Hello' if recruiter_name == 'NO_NAME' else f'Hello {recruiter_name}',
                 name,
+                YEAR,
                 company,
+                name.split()[0],
+            )
+        )
+    elif email_type == "Business":
+        return (
+            PERSONAL_SUBJECT,
+            BUSINESS_TEMPLATE.format(
+                'Hello' if recruiter_name == 'NO_NAME' else f'Hello {recruiter_name}',
+                name,
+                YEAR,
                 company,
                 name.split()[0],
             )
@@ -37,6 +49,9 @@ def format_email(name, company, recruiter_name, email_type="personal"):
 PERSONAL_SUBJECT = 'Recruit top talent through V1 Startup Fair @ University of Michigan!'
 with open('templates/personal.html', 'r') as f:
     PERSONAL_TEMPLATE = f.read()
+
+with open('templates/business.html', 'r') as f:
+    BUSINESS_TEMPLATE = f.read()
 
 def send_email(email_from, password, from_name, subject, content, email_to, cc):
     email_message = MIMEMultipart()
@@ -71,26 +86,27 @@ def main():
 
     # read in a subset of the company sheet
     df = pd.read_csv('companies.csv')
-    df = df[['Company', 'Name', 'Email']].dropna()
+    df = df[['Company', 'Name', 'Email', 'Type']].dropna()
 
     for _, row in df.iterrows():
         company = row["Company"]
+        email_type = row["Type"]
         names = sanitize_split(row["Name"])
         emails = sanitize_split(row["Email"])
         persons = zip(names, emails)
 
-        if len(names) != len(emails):
-            print(f'Error: names/emails for {company} badly formatted, skipping')
+        if len(names) != len(emails) or email_type is None:
+            print(f'Error: {company} row badly formatted, skipping')
             continue
 
-        print(company, names, emails)
+        print(company, names, emails, email_type)
 
         for name, email in persons:
             if email in emails_sent:
                 print(f'Warning: email already sent to {name} <{email}>, skipping')
                 continue
 
-            subject, content = format_email(FULL_NAME, company, name)
+            subject, content = format_email(FULL_NAME, company, name, email_type)
             send_email(EMAIL, PASSWORD, FULL_NAME, subject, content, [email], ["v1startupfair@umich.edu"])
             emails_sent.append(email)
 
